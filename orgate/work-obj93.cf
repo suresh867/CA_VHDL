@@ -1,0 +1,7 @@
+v 4
+file . "orgate_tb.vhdl" "72b2e2c98c30bc9ab3bcdc5d5ee206ff4d4dfd89" "20240403073747.553":
+  entity orgate_tb at 1( 0) + 0 on 13;
+  architecture test of orgate_tb at 7( 86) + 0 on 14;
+file . "orgate.vhdl" "7627296f2409fbd1c3e92deb71134f74aae14637" "20240403073737.836":
+  entity orgate at 1( 0) + 0 on 11;
+  architecture behaviour of orgate at 11( 144) + 0 on 12;
